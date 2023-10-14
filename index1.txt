@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Event management system</title> 
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+   </head>
+<body bgcolor="pink">
+        <div class="menu">
+          <div class="logo">
+        <h1><font color="black">Event management system</font></h1>
+          </div>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Feedback</a></li>
+          </ul>
+        </div>
+        <h1><font color="red">Login page</font></h1>
+        <h1>Enter username</h1>
+        <input type="text" size="30">
+        <h1>Enter password</h1>
+        <input type="text" size="30">
+        <h1><input type="submit" value="save" size="50"></h1>
+        <a href="C:\Users\G.Meghana\event2.html">Next</a>
+   </body>
+</html>
